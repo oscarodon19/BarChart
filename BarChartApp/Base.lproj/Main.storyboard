@@ -50,6 +50,7 @@
                     </view>
                     <connections>
                         <outlet property="chartView" destination="a7f-Rg-Rok" id="ttl-gQ-d5n"/>
+                        <outlet property="segmentedControl" destination="7WK-Zs-3O8" id="oXR-oE-iXz"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
